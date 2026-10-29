@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Swaad Smriti",
+  "description": "A Digital Archive of Food and Homesickness - Gastronomic Studies elective (HSS) at IIIT Dharwad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
