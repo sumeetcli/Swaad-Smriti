@@ -13,10 +13,15 @@ A student oral history and photographic archive documenting the intersection of 
 ### Student Team Members
 
 **25BDA113** - **Shubham Raj**
+
 **25BDA119** - **Sumeet Kumar**
+
 **25BDA091** - **Rajan Choudhary**
+
 **25BDA014** - **Anuj Raghuwanshi**
+
 **25BCS180** - **Sumer Singh**
+
 **25BCS021** - **Arun Fakirappa Halyal**
 
 ***
