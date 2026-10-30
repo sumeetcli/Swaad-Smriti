@@ -10,7 +10,7 @@ A student oral history and photographic archive documenting the intersection of 
 * **Course:** Gastronomic Studies (HSS Elective)
 * **Academic Year:** 2026
 
-### Student Team Members
+### __Student Team Members__
 
 **25BDA113** - **Shubham Raj**
 
