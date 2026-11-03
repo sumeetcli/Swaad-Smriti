@@ -369,7 +369,7 @@ The best part is stuffing hot, fluffy semolina upma directly inside the crisp cr
               <textarea
                 rows={6}
                 required
-                placeholder="Enter the full verbatim or translated transcript of the student interview..."
+                placeholder="Enter the full transcript of the spoken student narrative..."
                 value={transcript}
                 onChange={(e) => setTranscript(e.target.value)}
                 className="w-full px-3 py-2 text-sm rounded border border-[var(--border-warm)] bg-[var(--bg-paper)] text-[var(--text-primary)] focus:outline-none focus:ring-1 focus:ring-[#B3261E] font-serif"

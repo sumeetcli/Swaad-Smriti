@@ -337,24 +337,6 @@ export const DishPage: React.FC<DishPageProps> = ({ dishId, onNavigate }) => {
         </p>
       </motion.section>
 
-      {/* "Why this food matters" Note */}
-      <motion.section
-        initial={shouldReduceMotion ? false : { opacity: 0, y: 20 }}
-        whileInView={{ opacity: 1, y: 0 }}
-        viewport={{ once: true, amount: 0.15 }}
-        transition={{ duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
-        className="bg-[var(--bg-card)] border border-[var(--border-warm)] rounded-lg p-6 space-y-2"
-      >
-        <span className="text-xs uppercase tracking-wider font-semibold text-[#5B7A3A] dark:text-[#799F4E] block">
-          Curatorial Background
-        </span>
-        <h2 className="font-heading text-lg font-bold text-[var(--text-primary)]">
-          Why this food matters
-        </h2>
-        <p className="text-sm sm:text-base text-[var(--text-primary)] leading-relaxed font-serif">
-          {dish.whyItMatters}
-        </p>
-      </motion.section>
 
       {/* "From home to hostel" Section */}
       <motion.section
@@ -509,10 +491,10 @@ export const DishPage: React.FC<DishPageProps> = ({ dishId, onNavigate }) => {
                         </span>
                         <div className="invisible group-hover/ai-item:visible opacity-0 group-hover/ai-item:opacity-100 transition-all duration-200 absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-[var(--bg-paper)] text-[var(--text-primary)] border border-amber-600/40 rounded-lg shadow-xl text-left z-30 pointer-events-none">
                           <p className="font-heading font-bold text-xs text-[#B3261E] dark:text-amber-400 mb-1">
-                            Curatorial Ambience
+                            Visual Recreation
                           </p>
-                          <p className="text-[0.7rem] text-[var(--text-muted)] leading-relaxed font-serif">
-                            Recreates the ambience of ancient rural houses and historical dining settings where camera documentation was unavailable.
+                          <p className="text-[0.7rem] text-[var(--text-muted)] leading-relaxed">
+                            Recreates traditional dining settings and kitchen atmospheres where historical photos are unavailable.
                           </p>
                         </div>
                       </div>
@@ -520,8 +502,8 @@ export const DishPage: React.FC<DishPageProps> = ({ dishId, onNavigate }) => {
                   </div>
 
                   {item.isAI && (
-                    <p className="text-[0.7rem] text-[var(--text-muted)] font-serif italic max-w-sm mx-auto">
-                      Evokes traditional rural house ambience for gastronomic contextualization.
+                    <p className="text-[0.7rem] text-[var(--text-muted)] italic max-w-sm mx-auto">
+                      Recreates traditional home and dining setting for historical context.
                     </p>
                   )}
                 </div>

@@ -41,7 +41,7 @@ export const Footer: React.FC = () => {
                 <BookOpen className="w-4 h-4 text-[#B3261E] dark:text-[#E25B53] shrink-0" />
                 <div>
                   <span className="font-heading text-sm font-semibold text-[var(--text-primary)] block">
-                    Course Reflections & Curatorial Note
+                    Course Reflections & Project Note
                   </span>
                   <span className="text-xs text-[var(--text-muted)] font-handwriting text-base">
                     Drafting food, memory, and collegiate homesickness

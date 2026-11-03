@@ -156,7 +156,7 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
           />
           {isDisabled && (
             <span className="font-handwriting text-xs text-[var(--text-muted)] mt-1.5 italic">
-              Interviewee did not consent for usage of their oral history audio
+              Speaker chose not to include audio for this oral narrative
             </span>
           )}
         </div>
@@ -178,7 +178,7 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
       {isDisabled && (
         <div className="mt-3 pt-2.5 border-t border-[var(--border-warm)]/60 flex items-center gap-2 text-xs text-[var(--text-muted)] font-serif italic">
           <span className="w-1.5 h-1.5 rounded-full bg-amber-500 shrink-0 not-italic" />
-          <span>Note: The interviewee did not consent for usage of their oral history audio.</span>
+          <span>Note: Audio recording is not available for this dish.</span>
         </div>
       )}
     </div>

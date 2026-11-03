@@ -30,7 +30,7 @@ export const ArchivePage: React.FC<ArchivePageProps> = ({ onNavigate }) => {
           </div>
           <div className="flex flex-col sm:items-end gap-2">
             <p className="text-xs sm:text-sm text-[var(--text-muted)] max-w-sm italic font-serif">
-              Recipe cards assembled from hostel dormitory interviews, recorded throughout the academic year.
+              Food memories and oral narratives shared by students, recorded throughout the semester.
             </p>
             <button
               type="button"

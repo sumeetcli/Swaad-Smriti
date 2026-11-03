@@ -10,19 +10,14 @@ A student oral history and photographic archive documenting the intersection of 
 * **Course:** Gastronomic Studies (HSS Elective)
 * **Academic Year:** 2026
 
-## Student Team Members
+### Student Team Members
 
-**25BDA113** - **Shubham Raj**
-
-**25BDA119** - **Sumeet Kumar**
-
-**25BDA091** - **Rajan Choudhary**
-
-**25BDA014** - **Anuj Raghuwanshi**
-
-**25BCS180** - **Sumer Singh**
-
-**25BCS021** - **Arun Fakirappa Halyal**
+* **Shubham Raj** (Roll Number: 25BDA113)
+* **Rajan Choudhary** (Roll Number: 25BDA091)
+* **Sumeet Kumar** (Roll Number: 25BDA119)
+* **Anuj Raghuwanshi** (Roll Number: 25BDA014)
+* **Sumer Singh** (Roll Number: 25BCS180)
+* **Arun Fakirappa Halyal** (Roll Number: 25BCS021)
 
 ***
 
@@ -30,13 +25,13 @@ A student oral history and photographic archive documenting the intersection of 
 
 Moving to college is usually the first time any of us live away from our families. While campus life brings independence and excitement, one of the hardest adjustments is almost always the food. Canteens and hostel mess halls provide calories, but they cannot give you the comfort, care, and familiarity of a home cooked meal.
 
-We built Swaad Smriti to document this exact feeling. It is a student archive where we interviewed our classmates from different parts of the country, recorded their voices, collected authentic photographs, and recorded their real memories. The project explores how a simple plate of food keeps young adults connected to their roots while living in hostel rooms hundreds of kilometers away from home.
+We built Swaad Smriti to document this exact feeling. It is a student archive where we collected food memories from our classmates from different parts of the country, recorded their spoken narratives, collected authentic photographs, and recorded their real memories. The project explores how a simple plate of food keeps young adults connected to their roots while living in hostel rooms hundreds of kilometers away from home.
 
 ***
 
 ## Documented Regional Dishes
 
-The archive documents ten iconic regional dishes, each paired with an oral history interview and personal reflections:
+The archive documents ten iconic regional dishes, each paired with an oral history recording and personal reflections:
 
 1. **Hyderabadi Biryani** (Telangana, told by Bhukhya Lohitha Rathore): Fragrant dum rice that reminds her of festive family lunches back in Hyderabad.
 2. **Mysore Pak** (Karnataka, told by Himanshu Kumawat): Rich ghee sweet first created in the royal palace of Mysuru, shared during family celebrations.
@@ -133,7 +128,7 @@ npm run build
 
 * **Food Brings Back Sudden Memories:** The smell of hot ghee or tempering spices can instantly take your mind back to a specific morning in your childhood kitchen. Taste is one of the strongest triggers for human memory.
 * **Eating Together Builds Friendships:** In hostels, students from different cultures bond by sharing snacks sent from home or pooling money for late night parcels. Sharing food turns strangers into close friends.
-* **Preserving Stories Passed by Word of Mouth:** Most home cooking secrets are never written down in books; they are learned by standing in the kitchen with parents and grandparents. Recording these student interviews helps keep those family traditions alive.
+* **Preserving Stories Passed by Word of Mouth:** Most home cooking secrets are never written down in books; they are learned by standing in the kitchen with parents and grandparents. Recording these student spoken narratives helps keep those family traditions alive.
 * **Food Changes with Geography:** Every recipe in our archive reflects its local geography, from millets that survive dry Karnataka weather to desert rations that last weeks in Rajasthan without spoiling.
 
 ***
